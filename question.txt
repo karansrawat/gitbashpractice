@@ -1,2 +1,0 @@
-QUESTION 1:"You are given an arary of positive Integer and you have to sort that array in O(log n) times."
-Solution: Use Binary Search Algorithm.
